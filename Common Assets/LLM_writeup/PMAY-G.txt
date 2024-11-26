@@ -1,0 +1,29 @@
+# Write-up 1: Beneficiary and Problem Statement
+
+The beneficiaries of the Pradhan Mantri Awaas Yojana – Gramin (PMAY-G) are primarily the houseless and economically disadvantaged individuals residing in rural areas of India. Among them is Anil from Medhatal village in the Mandla district of Madhya Pradesh. Families like Anil's often face severe challenges including inadequate housing conditions, living in makeshift huts or dilapidated shelters, which are not only unsafe but also lack basic amenities. Many individuals find it difficult to secure a proper home due to financial constraints, leaving them and their families exposed to harsh weather conditions and health hazards.
+
+# Write-up 2: Application Process and Benefits
+
+To apply for PMAY-G, beneficiaries must first be identified based on housing deprivation criteria outlined in the Socio-Economic Caste Census (SECC) 2011 data. The application process typically involves the following steps:
+
+1. **Eligibility Verification**: Households are selected based on the SECC data, ensuring genuine need is prioritized.
+2. **Gram Sabha Validation**: The list of potential beneficiaries is validated by the Gram Sabha to ensure transparency.
+3. **Application Submission**: Eligible candidates can then submit their application for assistance.
+
+Once the application is approved, the primary benefits provided under PMAY-G include:
+
+- **Monetary Assistance**: Beneficiaries receive a financial grant of up to Rs. 1.20 lakh (or Rs. 1.30 lakh in hilly/difficult areas) for the construction of a pucca house.
+- **Access to Basic Amenities**: The scheme integrates the construction of essential facilities such as toilets, electricity connections, and drinking water supply into the housing project.
+- **Support for Labor and Materials**: Beneficiaries can access additional wages through labor schemes and support to procure construction materials.
+
+# Write-up 3: Outcome and Impact
+
+The expected outcomes of PMAY-G are transformative for the beneficiaries. The primary goal is to ensure that by 2024, all rural houseless families will have a pucca house equipped with basic amenities, vastly improving their living conditions. For beneficiaries like Anil, this means transitioning from unsafe, temporary shelters to secure homes that not only provide physical safety but also enhance their dignity and quality of life.
+
+Positive impacts include:
+
+- **Enhanced Social Status**: Owning a pucca house contributes to increased respect and status within the community.
+- **Improved Health and Safety**: Better housing leads to improved health outcomes, reducing the risk of illness and exposure to harsh weather.
+- **Economic Stability**: Having a stable home can provide a more conducive environment for livelihoods, improving economic situations over time.
+
+Through this initiative, the government aims to empower rural families, enabling them to achieve a sense of belonging and security within their communities.

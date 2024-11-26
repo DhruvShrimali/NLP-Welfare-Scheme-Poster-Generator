@@ -1,0 +1,16 @@
+# PM-KISAN.txt
+
+## Write-up 1: Beneficiary and Problem Statement
+The primary beneficiaries of the Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) scheme are landholding farmers' families across India. These families face financial challenges in procuring necessary inputs for agricultural and allied activities as well as meeting domestic needs. The scheme aims to alleviate the economic burden on farmers by providing them with essential income support, allowing them to secure their livelihoods and sustain agricultural production.
+
+## Write-up 2: Application Process and Benefits
+To apply for the PM-KISAN scheme, farmers must submit the following mandatory information on the PM-KISAN portal:
+1. Name, Age, Gender, and Category (SC/ST)
+2. Aadhaar Number
+3. Bank Account Number and IFSC Code
+4. Mobile number (optional but recommended)
+
+Once enrolled, eligible landholding farmer families receive financial support of ₹6,000 per annum, distributed in three equal instalments of ₹2,000 every four months. The state governments are responsible for identifying eligible farmers based on land records, and the funds are directly transferred to the beneficiaries' bank accounts.
+
+## Write-up 3: Outcome and Impact
+The PM-KISAN scheme is expected to significantly improve the financial stability of farming families, thereby enhancing their standard of living. By providing timely income support, the scheme helps farmers invest in agricultural inputs, improve productivity, and reduce financial stress. It also fosters a more sustainable agricultural environment by ensuring that farmers can secure the resources they need for both agricultural practices and household expenses, ultimately contributing to rural development and economic growth in the agricultural sector.

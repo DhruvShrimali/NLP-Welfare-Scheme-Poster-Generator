@@ -1,0 +1,10 @@
+### APY.txt
+
+#### Write-up 1: Beneficiary and Problem Statement
+The primary beneficiaries of the Atal Pension Yojana (APY) are workers in the unorganised sector of India, who make up approximately 88% of the total labor force. These individuals often lack formal pension provisions, which poses significant challenges regarding their income security in old age. The majority of these workers, aged between 18 to 40 years, struggle with the lack of savings and a stable pension that can sustain them post-retirement, ultimately leading to financial insecurity and a lower quality of life in their later years.
+
+#### Write-up 2: Application Process and Benefits
+To apply for the Atal Pension Yojana, interested individuals must be bank account holders and provide their Aadhaar number as the primary KYC document. Applications can be made via any Point of Presence (Service Providers) or authorized bank branches. Upon successful application, subscribers will enjoy a guaranteed fixed monthly pension ranging from Rs. 1,000 to Rs. 5,000 when they reach the age of 60, depending on their contribution amount. The government also offers a co-contribution of 50% of the subscriber's total contribution or Rs. 1,000 per annum (whichever is lower) for eligible subscribers for five years, incentivizing early participation. Contributions vary based on the age at which a subscriber joins, encouraging early enrollment to maximize benefits.
+
+#### Write-up 3: Outcome and Impact
+The Atal Pension Yojana is designed to secure a stable and guaranteed pension for subscribers in the unorganised sector upon reaching retirement age. By encouraging these workers to invest in their future with regular contributions, the scheme aims to enhance their financial independence and quality of life in old age. The expected outcomes include improved old-age income security, reduced poverty levels among retirees, and overall increased financial literacy and savings behavior among the workforce. The impact of APY is anticipated to create a safety net for millions, ensuring better living conditions and peace of mind during their retirement years.

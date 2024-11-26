@@ -1,0 +1,24 @@
+### Write-up 1: Beneficiary and Problem Statement
+
+The primary beneficiaries of the Sukanya Samriddhi Account Scheme are girl children, particularly those from families who wish to secure a financial future for their daughters. These families often face challenges related to funding higher education and managing educational expenses in an increasingly competitive landscape. Additionally, there may be concerns regarding saving adequately for their daughters' future needs while navigating economic constraints. This scheme aims to address these challenges by providing a structured savings plan that encourages financial discipline and supports educational aspirations.
+
+### Write-up 2: Application Process and Benefits
+
+To apply for the Sukanya Samriddhi Account Scheme, a guardian must do the following:
+1. Open the account in the name of a girl child who has not yet reached the age of ten years.
+2. Complete the application form (Form-1) and submit it along with the birth certificate of the girl child and required documents of the guardian.
+3. Deposit a minimum initial amount of ₹250, with subsequent deposits allowed in multiples of ₹50, and ensuring the total deposits do not exceed ₹1.5 lakh in a financial year.
+4. Funds can be deposited for a maximum of 15 years from the account opening date.
+
+Benefits of the scheme include:
+- The potential to earn a competitive interest rate (7.6% per annum after April 1, 2020).
+- Tax deductions under Sec. 80-C of the Income Tax Act.
+- Interest earned is exempt from income tax under Section 10 of the Income Tax Act.
+- Withdrawals up to 50% of the balance for educational expenses after the account holder turns 18 or completes the 10th standard.
+- The account matures after 21 years, when the total funds, including interest, become accessible to the account holder.
+
+### Write-up 3: Outcome and Impact
+
+The Sukanya Samriddhi Account Scheme is designed to create a positive impact on the lives of girl children and their families by promoting savings for education and personal growth. By the time the account matures after 21 years, families can expect a significant lump sum, which can be instrumental in funding higher education or other educational pursuits.
+
+Expected outcomes include increased financial security for girl children by ensuring adequate funds are available for their higher education, thereby empowering them to pursue their dreams and giving them equal opportunities in a competitive world. The scheme fosters a culture of saving among families for their daughters' future, contributing to gender equality in education and long-term economic stability. Overall, the Sukanya Samriddhi Account Scheme aims to transform the lives of girl children by enabling them to access higher education and better career opportunities, ultimately contributing to their personal and professional development.

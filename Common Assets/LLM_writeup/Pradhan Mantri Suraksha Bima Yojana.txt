@@ -1,0 +1,23 @@
+### Write-up 1: Beneficiary and Problem Statement
+
+The primary beneficiaries of the Pradhan Mantri Suraksha Bima Yojana (PMSBY) are individual bank and post office account holders aged between 18 to 70 years. These beneficiaries face significant challenges related to accidental death and disability, which can lead to financial instability for themselves and their families. Given the unpredictability of accidents, many individuals lack sufficient financial protection or insurance coverage to safeguard against the loss of income or livelihood caused by such incidents. The PMSBY aims to address this critical gap by providing affordable accident insurance coverage, thereby offering peace of mind to individuals within this age group.
+
+### Write-up 2: Application Process and Benefits
+
+To apply for the PMSBY, eligible individuals must follow these steps:
+
+1. **Eligibility Check**: Ensure that you are between the ages of 18 and 70 years and hold a bank or post office account.
+2. **Consent and Auto-Debit**: Provide consent to enable auto-debit facility from your bank or post office account by filling out the necessary enrollment form before the annual deadline of May 31st each year.
+3. **Premium Payment**: The premium of Rs. 20 will be deducted from your account through the auto-debit facility on or before June 1st. If you miss the deadline, you can still join by making a full premium payment, but coverage will only start from the date of auto-debit.
+
+Upon successful application, the benefits of the PMSBY include:
+- **Rs. 2 Lakh** for accidental death or total and irrecoverable loss of both eyes, hands, or feet.
+- **Rs. 1 Lakh** for total and irrecoverable loss of sight in one eye or loss of use of one hand or foot.
+
+These benefits aim to provide financial support and security to the insured individuals and their nominees in the event of a covered accident.
+
+### Write-up 3: Outcome and Impact
+
+The expected outcomes of the Pradhan Mantri Suraksha Bima Yojana include enhanced financial security and peace of mind for the beneficiaries and their families. By providing a safety net against the uncertainties of life, the scheme aims to cushion the financial blow that can occur in the event of accidental death or disability. 
+
+With the coverage available, beneficiaries are better positioned to handle unforeseen circumstances without plunging into debt or poverty. Moreover, in the case of the insured's demise due to an accident, the immediate financial support provided to their nominees or legal heirs can help sustain their quality of life and stability. Therefore, the PMSBY is not just a financial product; it is a transformative approach that fosters resilience among individuals and families against the perils of accidents in their everyday lives.
